@@ -1,0 +1,16 @@
+<svg viewBox="0 0 8 5" xmlns="http://www.w3.org/2000/svg">
+  <rect
+    x="0"
+    id="baseStripe"
+    width="8"
+    height="calc(100% / 6)"
+    stroke="transparent"
+  />
+  
+  <use href="#baseStripe" fill="#E60000" y="calc(100% / 6 * 0)" />
+  <use href="#baseStripe" fill="#FF8E00" y="calc(100% / 6 * 1)" />
+  <use href="#baseStripe" fill="#FFEF00" y="calc(100% / 6 * 2)" />
+  <use href="#baseStripe" fill="#00821B" y="calc(100% / 6 * 3)" />
+  <use href="#baseStripe" fill="#004BFF" y="calc(100% / 6 * 4)" />
+  <use href="#baseStripe" fill="#780089" y="calc(100% / 6 * 5)" />
+</svg>
