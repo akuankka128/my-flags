@@ -12,3 +12,7 @@
 
 # Rainbow (Gay / Pride)
 ![Rainbow / gay / pride flag](rainbow.svg)
+
+
+# Zoo
+![Zoophile flag](zoo.svg)

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 8 5" xmlns="http://www.w3.org/2000/svg">
+  <rect
+    x="0"
+    id="baseStripe"
+    width="8"
+    height="calc(100% / 3)"
+    stroke="transparent"
+  />
+  
+  <use href="#baseStripe" fill="#71D2FD" y="calc(100% / 3 * 0)" />
+  <use href="#baseStripe" fill="#FFFFFF" y="calc(100% / 3 * 1)" />
+  <use href="#baseStripe" fill="#B26FB6" y="calc(100% / 3 * 2)" />
+  <text
+    x="50%"
+    y="50%"
+    font-size="4"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >
+    ζ
+  </text>
+</svg>
